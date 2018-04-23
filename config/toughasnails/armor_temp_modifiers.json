@@ -1,0 +1,58 @@
+[
+  {
+    "names": [
+      "minecraft:iron_helmet",
+      "minecraft:iron_leggings",
+      "minecraft:iron_boots"
+    ],
+    "modifier": 1
+  },
+  {
+    "names": [
+      "minecraft:iron_chestplate"
+    ],
+    "modifier": 2
+  },
+  {
+    "names": [
+      "minecraft:gold_helmet",
+      "minecraft:gold_leggings",
+      "minecraft:gold_boots"
+    ],
+    "modifier": -1
+  },
+  {
+    "names": [
+      "minecraft:gold_chestplate"
+    ],
+    "modifier": -2
+  },
+  {
+    "names": [
+      "toughasnails:jelled_slime_helmet",
+      "toughasnails:jelled_slime_leggings",
+      "toughasnails:jelled_slime_boots"
+    ],
+    "modifier": -2
+  },
+  {
+    "names": [
+      "toughasnails:jelled_slime_chestplate"
+    ],
+    "modifier": -4
+  },
+  {
+    "names": [
+      "toughasnails:wool_helmet",
+      "toughasnails:wool_leggings",
+      "toughasnails:wool_boots"
+    ],
+    "modifier": 2
+  },
+  {
+    "names": [
+      "toughasnails:wool_chestplate"
+    ],
+    "modifier": 4
+  }
+]
